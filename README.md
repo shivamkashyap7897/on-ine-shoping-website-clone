@@ -1,4 +1,4 @@
-# onine-shoping-website-clone
+# online-shoping-website-clone
 
 I have created an online shopping page using HTML and CSS, and there is still more work to be done.
 
